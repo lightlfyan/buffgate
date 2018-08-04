@@ -1,0 +1,4 @@
+{
+  "port": ":8100",
+  "mgo_url": "mongodb://name:passwd@localhost:27017/collect"
+}
